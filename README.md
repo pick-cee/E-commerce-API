@@ -22,13 +22,13 @@ The admins have the privileges of:
 <br><br>
 This is purely just an API, there is no frontend to it.
 <br><br>
-If anyone would like to add a frontend to it, you can simply clone this repo by using: <br> > <code> git clone </code>
+If anyone would like to add a frontend to it, you can simply clone this repo by using: <br>  <code> git clone </code>
 <br>
-Once it is done you can proceed to download the depedencies used in the project by using  <br> > <code> npm install </code>
-<br> Then afterwards you can run it locally using  <br> > <code> npm start </code>
+Once it is done you can proceed to download the depedencies used in the project by using  <br>  <code> npm install </code>
+<br> Then afterwards you can run it locally using  <br>  <code> npm start </code>
 <br> You are good to go.
 
 <br>
 If you would like to see the API documentation, you can find it in the link below:
-<br> This is the *[API docs](https://documenter.getpostman.com/view/16987750/UzBsGizC)*
+<br> This is the [API docs](https://documenter.getpostman.com/view/16987750/UzBsGizC)
 </p>
